@@ -20,7 +20,17 @@ A command-line based restaurant management system that simulates basic restauran
 - No external libraries (only standard Python modules)
 
 ---
+📂 Project Structure
 
+Small_Restaurant_system/
+├── main.py                 # Entry point of the program
+├── menu.py                 # Module to handle menu items
+├── order.py                # Handles ordering process
+├── bill.py                 # Billing and receipt generation
+├── README.md               # Project documentation (this file)
+└── requirements.txt        # List of dependencies (optional)
+
+---
 ## 🚀 Getting Started
 
 ### Prerequisites
